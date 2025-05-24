@@ -7,7 +7,7 @@
 ## Project Files (Click to View)
 All documents are in this repository's main branch:
 
-1. [**AI Architecture for Material Sorting and Volumization**](./AI%20Architecture%20for%20Material%20Sorting%20and%20Volumization.docx)  
+1. [**AI Architecture for Material Sorting and Volumization**](./AI%20Architecture%20for%20Material%20Sorting%20and%20Volumization.pdf)  
    - Technical details of our EfficientNetB0 + U-Net system  
    - Real-time waste classification and volume estimation
    - For my work, see this document. It has details about how I went ahead with the Computer Vision powered material sorting system using EfficientNetB0 and U-Net for real-time classification/segmentation of construction waste on a conveyor belt, with volume estimation via depth sensor fusion.
